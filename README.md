@@ -18,3 +18,7 @@ Here the list of the topics of the notebooks:
 	- Visualizing Spatial Data
 	- Visualizing Networks and Graphs
 	- Producing Interactive Visualizations
+	
+***
+
+Note that the official github page of the "Data and results Visualization" is [THIS](https://github.com/DanieleLoiacono/DRViz2019)!
